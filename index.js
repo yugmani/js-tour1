@@ -24,3 +24,8 @@ console.log(my_favorite_foods[1]);
 console.log(my_favorite_foods[2]);
 
 // using if/else statement with this array
+
+const cameras = [{ camera: 'canon' }, { camera: 'panasonic' }];
+
+console.log(cameras[0].camera);
+  
